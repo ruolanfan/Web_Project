@@ -1,0 +1,49 @@
+body { 
+    background-color:whitesmoke;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    line-height: 1.5em;
+}
+
+.home_header{
+    padding: 60px;
+    text-align: center;
+    background:seagreen;
+    color:rgb(235, 124, 14);
+    font-size: 30px;
+}
+
+
+.one{          
+    background-color:rgb(48, 228, 57);    
+    text-align: center;
+}
+
+
+.two{
+    background-color:lightsteelblue;    
+    text-align: center;
+}
+
+
+.three{
+    background-color: lightskyblue;
+    text-align:center;
+}
+
+
+.four{
+    background-color:mistyrose;
+    text-align:center;
+}
+
+
+.bottom{
+    position: fixed;
+    text-align: center;
+    left:0%;
+    bottom:0%;
+    width: 100%;
+    background-color: lightgray;
+}
